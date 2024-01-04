@@ -12,5 +12,6 @@ int main() {
 		cout << "B" <<" " <<abs(a - b);
 	}
 	return 0;
+	
 	  
 }
